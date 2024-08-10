@@ -1,4 +1,4 @@
-# Suvidha Setu App 
+# Suvidha Setu App
 
 ## App Policy
 
